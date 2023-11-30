@@ -4,5 +4,5 @@ This web application uses the data provided by MoveBank to track one albatross' 
 
 
 ## Resources
-https://github.com/movebank/movebank-api-doc/tree/master
-https://www.movebank.org/cms/movebank-main
+- https://github.com/movebank/movebank-api-doc/tree/master
+- https://www.movebank.org/cms/movebank-main
